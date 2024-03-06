@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @keegs823.
+- 👀 I’m interested in learning to code (newbie).
+- 🌱 I’m currently learning CS50 online Edx. Just started 2 hours ago.
+- 📫 How to reach me keegs823@gmail.com.
+- Any advice on what free courses i could do online with and without certification but will be beneficial for me.
+- Would eventually like to learn Python.
